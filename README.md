@@ -19,3 +19,10 @@ To use the drum kit, simply press the keys displayed on the screen. Each key cor
 Additionally, you can also click the buttons on your screen.
 
 Enjoy making music!
+
+## Live Demo
+
+You can check out the live version of the project hosted on:
+
+- [Cloudflare](https://drumkit-1tg.pages.dev/)
+- [GitHub Pages](https://manishabose.github.io/DrumKit/)
